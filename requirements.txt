@@ -1,0 +1,5 @@
+pandas
+requests
+PySide2
+openpyxl
+json
