@@ -4,13 +4,12 @@
 
 
 
-<h1>Установка</h1>
-Вариант 1. в папке dist лежит исполняемый файл. Достаточно загрузить его и запустить
-Вариант 2. 
+<h1>Установка и запуск</h1>
+
 <ol>
 <li> Склонируйте данный репозиторий </li>
-<li> В папке: <code> pip install -r requirements.txt </code></li>
-<li> В папке: <code>python main.py</code> </li>
+<li> В папке проекта: <code> pip install -r requirements.txt </code></li>
+<li> В папке проекта: <code>python main.py</code> </li>
 </ol>
 
 
